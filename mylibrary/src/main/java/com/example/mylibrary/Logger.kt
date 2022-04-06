@@ -1,4 +1,4 @@
-package com.example.demo
+package com.example.mylibrary
 
 import android.support.multidex.BuildConfig
 import android.util.Log
